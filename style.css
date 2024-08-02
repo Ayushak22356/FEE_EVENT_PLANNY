@@ -1,0 +1,100 @@
+
+body {
+    background-color: #f8f9fa;
+}
+
+header.jumbotron {
+    background: url('c:\Users\dell\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\67DED051D660FB05D7AD125986DDBF2D\WhatsApp Image 2024-08-02 at 09.08.03_38b5f672.jpg') no-repeat center center;
+    background-size: cover;
+    color: rgb(132, 132, 222);
+}
+
+header.jumbotron .display-4 {
+    font-weight: 700;
+}
+
+header.jumbotron .lead {
+    font-weight: 300;
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
+
+
+.button-1 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white !important;
+    background-color: green !important;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.button-1:hover {
+    background-color: darkgreen !important;
+}
+
+.btn-custom {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white !important;
+    background-color: blue !important;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: darkblue !important;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+form .form-control {
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+form .btn-primary {
+    background-color: #6200ea;
+    border: none;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+form .btn-primary:hover {
+    background-color: #3700b3;
+}
+
+.contact-box {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
